@@ -1,4 +1,4 @@
-# music-skeleton
+# ableton-skeleton
 Template repository for Ableton projects
 
 ## Setup .gitingore
