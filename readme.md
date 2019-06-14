@@ -1,5 +1,5 @@
 # ableton-skeleton
-Template repository for Ableton projects
+Template repository for Ableton Live projects
 
 ## Setup .gitingore
 - Update `.gitignore` by replacing the `ableton-skeleton/Samples/Processed/Freeze/` with `<repository-name>/Samples/Processed/Freeze/`
